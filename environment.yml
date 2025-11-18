@@ -1,0 +1,6 @@
+name: '522'
+channels:
+  - conda-forge
+dependencies:
+  - python=3
+prefix: /Users/hugokwok/miniforge3/envs/522
